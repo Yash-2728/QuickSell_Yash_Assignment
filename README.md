@@ -24,7 +24,7 @@ Develop a React-based Kanban-board app that interfaces with the provided API by 
   </tr>
 </table>
 
-© Made By Yash Verma
+© Made By Yash Verma -  https://quick-sell-yash-assignment.vercel.app/
 
 [![forthebadge](https://forthebadge.com/images/featured/featured-built-with-love.svg)](https://forthebadge.com)
 
